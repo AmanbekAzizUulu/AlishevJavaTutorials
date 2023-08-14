@@ -1,4 +1,4 @@
-package polymorphism;
+package edu.corejava.polymorphism;
 
 public class Animal {
 	public void doEat() {

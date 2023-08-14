@@ -1,4 +1,4 @@
-package wildCards;
+package edu.corejava.wildCards;
 
 import java.util.ArrayList;
 import java.util.List;

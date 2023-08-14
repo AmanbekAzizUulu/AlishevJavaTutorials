@@ -1,4 +1,4 @@
-package multiThread;
+package edu.corejava.multiThreading;
 
 public class MultiThreading implements Runnable{
 	private int threadNumber;

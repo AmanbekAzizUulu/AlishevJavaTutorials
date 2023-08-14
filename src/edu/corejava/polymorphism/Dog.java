@@ -1,4 +1,4 @@
-package polymorphism;
+package edu.corejava.polymorphism;
 
 public class Dog extends Animal{
 	public void doBark() {

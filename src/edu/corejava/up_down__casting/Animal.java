@@ -1,4 +1,4 @@
-package upDown__Casting;
+package edu.corejava.up_down__casting;
 
 public class Animal {
 	public void doEat() {

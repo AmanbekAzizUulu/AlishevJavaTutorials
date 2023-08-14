@@ -1,4 +1,4 @@
-package interfaces;
+package edu.corejava.interfaces;
 
 public class Main {
 	public static void main (String args[]) {

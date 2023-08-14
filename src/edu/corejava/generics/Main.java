@@ -1,4 +1,4 @@
-package generics;
+package edu.corejava.generics;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -11,9 +11,9 @@ public class Main {
 		/***********JAVA 5***************/
 		List animals = new ArrayList();
 
-		animals.add("cat");//0
-		animals.add("dog");//1
-		animals.add("frog");//2
+		animals.add("cat");						//0
+		animals.add("dog");						//1
+		animals.add("frog");						//2
 
 
 		String animal = (String) animals.get(1);
@@ -32,7 +32,7 @@ public class Main {
 
 		////////////////JAVA 7/////////////////////////
 
-		List<String> animals_1 = new ArrayList<>();//можно не указывать тип в ArrayList<>();
+		List<String> animals_1 = new ArrayList<>();			//можно не указывать тип в ArrayList<>();
 
 	}
 

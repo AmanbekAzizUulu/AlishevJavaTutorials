@@ -1,4 +1,4 @@
-package wildCards;
+package edu.corejava.wildCards;
 
 public class Dog extends Animal{
 	

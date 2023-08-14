@@ -1,4 +1,4 @@
-package interfaces;
+package edu.corejava.interfaces;
 
 public class Animal implements Info{
 	public int id;

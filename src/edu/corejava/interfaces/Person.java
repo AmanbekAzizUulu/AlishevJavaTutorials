@@ -1,4 +1,4 @@
-package interfaces;
+package edu.corejava.interfaces;
 
 public class Person implements Info{
 	public String name;
