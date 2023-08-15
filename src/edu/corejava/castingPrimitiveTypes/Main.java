@@ -1,4 +1,4 @@
-package edu.javacore.castingPrimitiveTypes;
+package edu.corejava.castingPrimitiveTypes;
 
 public class Main {
 
