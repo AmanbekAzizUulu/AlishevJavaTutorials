@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Map.Entry;
 
-public class MapDemo {
+public class HashMapDemo {
     public static void main(String[] args) {
 	Map<Double, Student> studentsMap = new HashMap<>();
 	
