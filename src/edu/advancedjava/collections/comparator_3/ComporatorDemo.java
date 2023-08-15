@@ -17,10 +17,12 @@ public class ComporatorDemo {
 	animals.add("kitten");
 	
 	
-	Collections.sort(animals);/* sorted naturally by default */
+	Collections.sort(animals);				// sorted naturally by default 
 	System.out.println(animals);
 	
-	/*using anonymous classes to sort*/
+	/*
+	 * 		using anonymous classes to sort
+	 */
 	Collections.sort(animals, new Comparator<String>() {
 	    @Override
 	    public int compare(String obj1, String obj2) {
@@ -43,10 +45,12 @@ public class ComporatorDemo {
 	numbers.add(8);
 	numbers.add(2);
 
-	Collections.sort(numbers);/* sorted naturally [directly] by default */
+	Collections.sort(numbers);				// sorted naturally [directly] by default 
 	System.out.println(numbers);
 
-	/* sorted backwards by using anonymous class*/
+	/* 
+	 * 		sorted backwards by using anonymous class
+	 */
 	Collections.sort(numbers, new Comparator<Integer>() {
 	    @Override
 	    public int compare(Integer obj1, Integer obj2) {

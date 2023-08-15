@@ -16,7 +16,7 @@ public class MapDemo {
 	    System.out.println("KEY: " + entry.getKey() + "---> VALUE: " + entry.getValue());
 	}
 	
-	System.out.println("\nSelection via key:");
+	System.out.println("\nSelection by key:");
 	System.out.println(studentsMap.get(7.3));
 	System.out.println(studentsMap.get(7.5));
 	System.out.println(studentsMap.get(7.0));

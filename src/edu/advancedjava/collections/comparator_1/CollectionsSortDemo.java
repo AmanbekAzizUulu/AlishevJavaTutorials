@@ -15,7 +15,11 @@ public class CollectionsSortDemo {
 	animals.add("ox");
 	animals.add("kitten");
 	System.out.println("Порядок элементов в неотсортированной коллекции строковых данных: " + "\n" +animals);
-	Collections.sort(animals);/*by default in Java strings are sorted lexicographically - natural order*/
+	/*
+	 * 	by default in Java strings are sorted lexicographically - natural order
+	 */
+	
+	Collections.sort(animals);
 	System.out.println("Порядок элементов в отсортированной коллекции строковых данных: " + "\n" +animals);
 	
 	System.out.println();
