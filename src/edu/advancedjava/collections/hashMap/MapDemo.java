@@ -1,4 +1,4 @@
-package edu.advancedjava.collections.map;
+package edu.advancedjava.collections.hashMap;
 
 import java.util.HashMap;
 import java.util.Map;
